@@ -1,0 +1,20 @@
+{
+    "name": "necmettinavci/seourl",
+    "type": "library", 
+    "license": "MIT",
+    "description": "SEO-friendly URL Generator", 
+    "minimum-stability": "dev",
+    "keywords": ["seo url", "URL Generator"], 
+    "authors": [
+        {
+            "name": "Necmettin AVCI",
+            "email": "necmettinavci@gmail.com"
+        }
+    ], 
+    "require": {},
+    "autoload": {
+        "psr-4": {
+           "necmettinavci\\Seo\\" : "src/"
+        }
+    } 
+}
