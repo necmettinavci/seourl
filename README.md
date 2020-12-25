@@ -2,7 +2,7 @@
 
 **Install**
 ```
-  composer require necmettinavci/seo-url
+  composer require necmettinavci/seourl
 ```
 **Usage**
 
