@@ -14,7 +14,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-           "necmettinavci\\Seo\\" : "src"
+           "necmettinavci\\SeoUrl\\" : "src"
         }
     } 
 }
